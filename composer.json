@@ -1,0 +1,21 @@
+{
+    "name": "shivamgpt08/laravel-webservices",
+    "description": "webservices in laravel",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "laravel/framework": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Shivam",
+            "email": "shivamgpt08@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Shivam\\Webservices\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
