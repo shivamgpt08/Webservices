@@ -1,7 +1,7 @@
 {
     "name": "shivamgpt08/laravel-webservices",
     "description": "webservices in laravel",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "require": {
         "laravel/framework": "^6.0"
